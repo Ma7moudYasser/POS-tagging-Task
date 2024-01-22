@@ -26,13 +26,6 @@ To demonstrate the effectiveness of CAMeL-BERT in a real-world scenario, the pro
 
 ## I have used both matplotlib and graphviz to make the network graph of the pos tagging
 
-## Conclusion
-
-Arabic Part-of-Speech Tagging with CAMeL-BERT contributes to the broader field of Arabic NLP by leveraging advanced pre-trained models. The project aims to enhance our understanding of Arabic language structures and facilitate more accurate language processing applications.
-
-
-
-
 
 
 
@@ -79,6 +72,7 @@ Arabic Part-of-Speech Tagging with CAMeL-BERT contributes to the broader field o
 ## Network graph demo
 ![network graph for article](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/7ddd7b47-8651-40ef-bce7-66dfbc93910d)
 
+## Conclusion
 
-## Network graph demo
+Arabic Part-of-Speech Tagging with CAMeL-BERT contributes to the broader field of Arabic NLP by leveraging advanced pre-trained models. The project aims to enhance our understanding of Arabic language structures and facilitate more accurate language processing applications.
 
