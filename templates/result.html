@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>POS Tagging Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .result-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 20px;
+        }
+        .network-graph {
+            margin-top: 20px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+        }
+    </style>
+</head>
+<body>
+    <div class="result-container">
+        <h2>POS Tagging Result</h2>
+        <p>Sentence: {{ sentence }}</p>
+        <ul>
+            {% for tag in pos_tags %}
+                <li>{{ tag.word }} - {{ tag.entity }}</li>
+            {% endfor %}
+        </ul>
+        <div class="network-graph">
+            <h3>POS Tagging Network Graph</h3>
+            <img src="{{ network_graph }}" alt="Network Graph">
+        </div>
+    </div>
+</body>
+</html>
