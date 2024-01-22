@@ -66,11 +66,19 @@ Arabic Part-of-Speech Tagging with CAMeL-BERT contributes to the broader field o
 
 ## Tools 
 
-1- [![Docker Logo](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)](https://www.docker.com/)
-2- [![Graphviz Logo](https://www.graphviz.org/Gallery/gradient_to.png)](https://www.graphviz.org/)
-3- [![Matplotlib Logo](https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png)](https://matplotlib.org/)
-4- Hugging Face 
+1- Docker
+2- Flask
+3- Graphviz
+4- Hugging Face
+5- Matplotlib
 
 
-
+## Network graph demo 
 ![result](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/b5d299dd-cd6b-466c-b4c1-f9b07c8bde27)
+
+## Network graph demo
+![network graph for article](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/7ddd7b47-8651-40ef-bce7-66dfbc93910d)
+
+
+## Network graph demo
+
