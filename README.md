@@ -35,6 +35,11 @@ To demonstrate the effectiveness of CAMeL-BERT in a real-world scenario, the pro
 ![lading page](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/351bfedb-2436-4406-8314-691f03eb805d)
 
 
+
+## Network graph demo 
+![result](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/b5d299dd-cd6b-466c-b4c1-f9b07c8bde27)
+
+
 # Resources 
 1. [Research Paper: CAMeLBERT - Arabic Language Model](https://arxiv.org/abs/2103.06678)
    - Access the research paper that introduces CAMeLBERT, the Arabic language model used in this project.
@@ -66,8 +71,7 @@ To demonstrate the effectiveness of CAMeL-BERT in a real-world scenario, the pro
 5- Matplotlib
 
 
-## Network graph demo 
-![result](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/b5d299dd-cd6b-466c-b4c1-f9b07c8bde27)
+
 
 ## Network graph demo
 ![network graph for article](https://github.com/Ma7moudYasser/POS-tagging-Task/assets/57537704/7ddd7b47-8651-40ef-bce7-66dfbc93910d)
